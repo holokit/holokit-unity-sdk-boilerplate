@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/StereoscopicRendering/Scenes/StereoscopicRendering.unity
     guid: 9034993a8ad8343989ffd04d6bf84577
-  - enabled: 0
+  - enabled: 1
     path: Assets/Samples/HandTracking/Scenes/HandTracking.unity
     guid: eb82d7165144449f48dc359f22dc9c83
   - enabled: 0
@@ -41,7 +41,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/ResetWorldOrigin/Scenes/ResetWorldOrigin.unity
     guid: 9d3424e97f0844172a316018aacd8ee2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/ARBackgroundVideoEnhancement/Scenes/ARBackgroundVideoEnhancement.unity
     guid: 8173e91a70fd140328c4a73f47c8b5ee
   m_configObjects:
