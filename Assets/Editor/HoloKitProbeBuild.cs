@@ -41,7 +41,7 @@ public static class HoloKitProbeBuild
                 target = BuildTarget.iOS,
                 targetGroup = BuildTargetGroup.iOS,
                 options = BuildOptions.Development,
-                extraScriptingDefines = new[] { "HOLOKIT_SDK_TESTS" },
+                extraScriptingDefines = new[] { "HOLOKIT_SDK_TESTS", "HOLOKIT_RECORDER_TESTS" },
             };
             Debug.Log($"[HoloKitProbeBuild] scenes={string.Join(",", options.scenes)} bundle={bundleId ?? previousId}");
             BuildReport report = BuildPipeline.BuildPlayer(options);
