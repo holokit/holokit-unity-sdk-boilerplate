@@ -208,14 +208,14 @@
       "url": "https://packages.unity.com"
     },
     "io.holokit.unity-sdk": {
-      "version": "https://github.com/holokit/holokit-unity-sdk.git#0.6.0-preview.2",
+      "version": "https://github.com/holokit/holokit-unity-sdk.git#0.6.0-preview.3",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.xr.arfoundation": "6.7.0",
         "com.unity.xr.arkit": "6.7.0"
       },
-      "hash": "e1c9dff4fc8d47099a20b79b122219f6d646ce59"
+      "hash": "0c2733b55450d8de0ea43fd455c888e61d47dde8"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
